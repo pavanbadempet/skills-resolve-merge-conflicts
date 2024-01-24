@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is created for testing Merge Conflicts.
